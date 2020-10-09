@@ -18,7 +18,7 @@ require (
 	github.com/jenkins-x/jx-kube-client/v3 v3.0.1
 	github.com/jenkins-x/jx-logging/v3 v3.0.2
 	github.com/jenkins-x/jx-secret v0.0.164 // indirect
-	github.com/magiconair/properties v1.8.0
+	github.com/magiconair/properties v1.8.4
 	github.com/nbio/st v0.0.0-20140626010706-e9e8d9816f32 // indirect
 	github.com/onsi/ginkgo v1.11.0
 	github.com/onsi/gomega v1.7.0
